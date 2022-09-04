@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src='https://discord.c99.nl/widget/theme-1/806098164150042674.png'>
+<img src='https://discord.c99.nl/widget/theme-4/806098164150042674.png'>
 
 <!--
 **SonThanhVN/SonThanhVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
