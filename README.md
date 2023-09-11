@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p align="center"><img src='https://discord.c99.nl/widget/theme-4/806098164150042674.png'>
-<p align="center"><a href="https://osu.ppy.sh/users/SonThanhVN"><img src="https://osu-sig.vercel.app/card?user=SonThanhVN&mode=std&lang=en&mini=true" width="410"></a></p>
+<img src='https://discord.c99.nl/widget/theme-4/806098164150042674.png'>
+<a href="https://osu.ppy.sh/users/SonThanhVN"><img src="https://osu-sig.vercel.app/card?user=SonThanhVN&mode=std&lang=en&mini=true" width="410"></a></p>
 
 <!--
 **SonThanhVN/SonThanhVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
