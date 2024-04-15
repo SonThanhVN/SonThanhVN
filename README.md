@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I don't have any knowledge about coding but i enjoy open-source project and application
 <img src='https://discord.c99.nl/widget/theme-4/806098164150042674.png'>
 <a href="https://osu.ppy.sh/users/SonThanhVN"><img src="https://osu-sig.vercel.app/card?user=SonThanhVN&mode=std&lang=en&mini=true" width="410"></a></p>
 
